@@ -179,7 +179,7 @@
           "_anchor": "features1-b",
           "_params": {
             "columnsColor": "#ffffff",
-            "paddingTop": 2,
+            "paddingTop": "0",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
