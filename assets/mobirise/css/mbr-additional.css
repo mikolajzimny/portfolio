@@ -411,11 +411,21 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#features1-b .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
+#msg-box8-n .mbr-section-title,
+#msg-box8-n p {
+  color: #fff;
 }
-#features1-8 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
+#features1-b .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #ffffff;
+}
+#features1-b .mbr-cards-col:nth-child(odd) .card-text {
+  color: #28324e;
+}
+#features1-b .mbr-cards-col:nth-child(even) .card-title {
+  color: #232323;
+}
+#features1-b .mbr-cards-col:nth-child(odd) .card-title {
+  color: #232323;
 }
 #header5-f .mbr-section-title {
   color: #ffffff;
