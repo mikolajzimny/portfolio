@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Artek.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -80,7 +80,7 @@
           "title1": "Mieszkanie Artka",
           "subtitle1": "Cześć Adam, pa to",
           "caption1": "Tutaj będzie bullshit na temat projektu.",
-          "button1": "<a data-app-btn=\"true\" href=\"Artek.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ZOBACZ MEMY</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mikolajzimny.github.io/portfolio/Artek.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ZOBACZ MEMY</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
